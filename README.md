@@ -9,7 +9,7 @@ To get started with the tutorial, follow the instructions below:
 ### 1. Clone the Repository
 First, clone the repository to your local machine:
 ```sh
-git clone https://github.com/your-username/anomaly-detection-tutorial.git
+git clone https://github.com/sylligardos/anomaly-detection-tutorial.git
 cd anomaly-detection-tutorial
 ```
 
