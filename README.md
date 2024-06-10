@@ -1,6 +1,6 @@
 # Anomaly Detection Tutorial
 
-This repository contains materials for a hands-on tutorial on anomaly detection in time series data. The tutorial includes interactive live-coding sessions in Jupyter notebooks, using Python and various anomaly detection algorithms.
+This repository contains materials for a hands-on tutorial on Anomaly Detection in Time Series. The tutorial includes interactive live-coding sessions in Jupyter notebooks, using Python and various anomaly detection algorithms from the TSB-UAD Benchmark.
 
 ## Getting Started
 
@@ -25,21 +25,11 @@ Make sure you have Conda installed, then create and activate the environment:
 ```sh
 conda create --name tutorial python=3.8.13
 conda activate tutorial
-pip install -r requirements.txt
+pip install tsb-kit
 pip install jupyter
 ```
 
-### 4. Set Up the TSB-UAD Package
-Download and set up the TSB-UAD package:
-1. Download the package from [this link](https://drive.google.com/file/d/1EKLoH67KL5jLFGSbFjst12mC9jIztddR/view?usp=sharing).
-2. Unzip the package.
-3. Move its contents into the `anomaly-detection-tutorial` directory.
-4. Install the package:
-   ```sh
-   pip install .
-   ```
-
-### 5. Open the Tutorial Notebook
+### 4. Open the Tutorial Notebook
 Start the Jupyter Notebook server and open the tutorial notebook:
 ```sh
 jupyter notebook
@@ -48,5 +38,4 @@ In the Jupyter Notebook interface, open the `notebooks/tutorial_paris_2024.ipynb
 
 ## Usage
 
-The notebooks provided in this repository guide you through various anomaly detection techniques and their applications in time series data. Follow along with the instructions in each notebook to learn and implement different methods.
-
+The notebooks provided in this repository guide you through various anomaly detection techniques and their applications in time series. Follow along with the instructions in each notebook to learn and implement different methods.
