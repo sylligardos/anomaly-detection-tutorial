@@ -2,6 +2,13 @@
 
 This repository contains materials for a hands-on tutorial on Anomaly Detection in Time Series. The tutorial includes interactive live-coding sessions in Jupyter notebooks, using Python and various anomaly detection algorithms from the TSB-UAD Benchmark.
 
+## Important ressources
+
+- TSB-UAD ([github](https://github.com/TheDatumOrg/TSB-UAD)): labeled time seires anomaly detection Datasets and methods
+- TSB-kit ([github](https://github.com/boniolp/tsb-kit),[doc](https://tsb-kit.readthedocs.io/en/latest/)): Time seires anomly detection library supporting TSB-UAD
+- MSAD ([github](https://github.com/boniolp/MSAD)): Model selection for time series anoamly detection
+- ADecimo ([github](https://github.com/boniolp/ADecimo), [streamlit](https://adecimots.streamlit.app/)): Tool for exploring and comparing model selection for time series anoamly detection
+
 ## Getting Started
 
 To get started with the tutorial, follow the instructions below:
