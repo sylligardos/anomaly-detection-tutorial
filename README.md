@@ -23,9 +23,9 @@ cd anomaly-detection-tutorial
 ### 2. Download the Dataset
 Download the ‘Public’ dataset from the TSB-UAD benchmark:
 1. Visit [github.com/TheDatumOrg/TSB-UAD](https://github.com/TheDatumOrg/TSB-UAD).
-2. Download the dataset from [this link](https://www.thedatum.org/datasets/TSB-UAD-Public.zip).
-3. Unzip the dataset.
-4. Move the ‘TSB-UAD-Public’ directory into the `anomaly-detection-tutorial/data/` directory.
+2. Download the dataset from [this link](https://www.thedatum.org/datasets/TSB-UAD-Public.zip), or the smaller sample from [this link](https://drive.google.com/file/d/1w3ATPp-qym2ZjauAiK_37zAVG3RMFpZo/view?usp=sharing). 
+4. Unzip the dataset.
+5. Move the ‘TSB-UAD-Public’ directory into the `anomaly-detection-tutorial/data/` directory.
 
 ### 3. Set Up the Conda Environment
 Make sure you have Conda installed, then create and activate the environment:
