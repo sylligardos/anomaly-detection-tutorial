@@ -5,7 +5,7 @@ This repository contains materials for a hands-on tutorial on Anomaly Detection 
 ## Important ressources
 
 - TSB-UAD ([github](https://github.com/TheDatumOrg/TSB-UAD)): labeled time seires anomaly detection Datasets and methods
-- TSB-kit ([github](https://github.com/boniolp/tsb-kit),[doc](https://tsb-kit.readthedocs.io/en/latest/)): Time seires anomly detection library supporting TSB-UAD
+- TSB-kit ([doc](https://tsb-kit.readthedocs.io/en/latest/)): Time seires anomly detection library supporting TSB-UAD
 - MSAD ([github](https://github.com/boniolp/MSAD)): Model selection for time series anoamly detection
 - ADecimo ([github](https://github.com/boniolp/ADecimo), [streamlit](https://adecimots.streamlit.app/)): Tool for exploring and comparing model selection for time series anoamly detection
 
